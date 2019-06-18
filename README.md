@@ -1,0 +1,2 @@
+# testcomponent
+GitHub test component
