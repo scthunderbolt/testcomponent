@@ -1,5 +1,5 @@
 # testcomponent
 GitHub test component
-branc
+branch
 
 
